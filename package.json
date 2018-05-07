@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
